@@ -48,7 +48,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ahmed2004abdelaal&theme=shadow_blue&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ahmed2004abdelal&theme=shadow_blue&hide_border=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed2004abdelaal&theme=shadow_blue&hide_border=false" />
 </p>
 
